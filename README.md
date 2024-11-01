@@ -118,7 +118,3 @@ The system uses Ridge Regression with polynomial features for demand forecasting
 3. Commit changes: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

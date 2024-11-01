@@ -2,7 +2,7 @@
 
 A machine learning-powered dashboard for forecasting product demand, built with React and Python Flask. The system uses Ridge Regression with polynomial features to predict future demand based on historical data.
 
-![Dashboard Preview](/api/placeholder/800/400)
+![Dashboard Preview](review.png)
 
 ## Features
 

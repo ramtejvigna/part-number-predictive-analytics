@@ -1,0 +1,823 @@
+{
+    "PART-001": {
+        "historicalData": [
+            {
+                "demand": 173,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 227,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 242,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 230,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 187,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 205,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 203,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 239,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 189,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 165,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 174,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 236,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-001",
+        "predictions": [
+            {
+                "month": "2023-12",
+                "demand": null,
+                "prediction": 194.25
+            },
+            {
+                "month": "2024-01",
+                "demand": null,
+                "prediction": 191.61
+            },
+            {
+                "month": "2024-02",
+                "demand": null,
+                "prediction": 188.8
+            }
+        ]
+    },
+    "PART-002": {
+        "historicalData": [
+            {
+                "demand": 187,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 217,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 233,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 209,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 198,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 206,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 212,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 201,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 198,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 147,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 176,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 207,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-002",
+        "predictions": [
+            {
+                "demand": null,
+                "month": "2023-12",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-01",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-02",
+                "prediction": null
+            }
+        ]
+    },
+    "PART-003": {
+        "historicalData": [
+            {
+                "demand": 202,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 255,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 259,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 257,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 224,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 244,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 251,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 259,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 232,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 221,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 251,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 298,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-003",
+        "predictions": [
+            {
+                "month": "2023-12",
+                "prediction": 275.25
+            },
+            {
+                "month": "2024-01",
+                "prediction": 284
+            },
+            {
+                "month": "2024-02",
+                "prediction": 293.65
+            }
+        ]
+    },
+    "PART-004": {
+        "historicalData": [
+            {
+                "demand": 125,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 160,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 173,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 155,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 144,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 142,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 154,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 153,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 135,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 131,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 132,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 176,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-004",
+        "predictions": [
+            {
+                "demand": null,
+                "month": "2023-12",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-01",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-02",
+                "prediction": null
+            }
+        ]
+    },
+    "PART-005": {
+        "historicalData": [
+            {
+                "demand": 165,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 212,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 223,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 211,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 190,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 225,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 204,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 218,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 230,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 206,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 198,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 263,
+                "month": "2023-11",
+                "prediction": null
+            },
+            {
+                "demand": 110,
+                "month": "2023-12",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-005",
+        "predictions": [
+            {
+                "month": "2024-01",
+                "demand": null,
+                "prediction": 151.92
+            },
+            {
+                "month": "2024-02",
+                "demand": null,
+                "prediction": 130.27
+            },
+            {
+                "month": "2024-03",
+                "demand": null,
+                "prediction": 107.37
+            }
+        ]
+    },
+    "PART-006": {
+        "historicalData": [
+            {
+                "demand": 115,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 148,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 161,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 153,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 150,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 136,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 162,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 154,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 144,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 113,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 129,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 169,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-006",
+        "predictions": [
+            {
+                "month": "2023-12",
+                "demand": null,
+                "prediction": 137.47
+            },
+            {
+                "month": "2024-01",
+                "demand": null,
+                "prediction": 133.4
+            },
+            {
+                "month": "2024-02",
+                "demand": null,
+                "prediction": 128.67
+            }
+        ]
+    },
+    "PART-007": {
+        "historicalData": [
+            {
+                "demand": 145,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 194,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 216,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 204,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 183,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 195,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 212,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 197,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 191,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 178,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 175,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 230,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-007",
+        "predictions": [
+            {
+                "month": "2023-12",
+                "prediction": 194.92
+            },
+            {
+                "month": "2024-01",
+                "prediction": 192.07
+            },
+            {
+                "month": "2024-02",
+                "prediction": 188.5
+            }
+        ]
+    },
+    "PART-008": {
+        "historicalData": [
+            {
+                "demand": 151,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 204,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 187,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 167,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 157,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 168,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 183,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 165,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 147,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 136,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 133,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 194,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-008",
+        "predictions": [
+            {
+                "month": "2023-12",
+                "prediction": 163.4
+            },
+            {
+                "month": "2024-01",
+                "prediction": 167.01
+            },
+            {
+                "month": "2024-02",
+                "prediction": 171.55
+            }
+        ]
+    },
+    "PART-009": {
+        "historicalData": [
+            {
+                "demand": 176,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 211,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 208,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 208,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 184,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 189,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 206,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 199,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 182,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 165,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 193,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 215,
+                "month": "2023-11",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-009",
+        "predictions": [
+            {
+                "demand": null,
+                "month": "2023-12",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-01",
+                "prediction": null
+            },
+            {
+                "demand": null,
+                "month": "2024-02",
+                "prediction": null
+            }
+        ]
+    },
+    "PART-010": {
+        "historicalData": [
+            {
+                "demand": 168,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 200,
+                "month": "2023-01",
+                "prediction": null
+            },
+            {
+                "demand": 222,
+                "month": "2023-03",
+                "prediction": null
+            },
+            {
+                "demand": 217,
+                "month": "2023-04",
+                "prediction": null
+            },
+            {
+                "demand": 189,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 193,
+                "month": "2023-05",
+                "prediction": null
+            },
+            {
+                "demand": 202,
+                "month": "2023-06",
+                "prediction": null
+            },
+            {
+                "demand": 188,
+                "month": "2023-07",
+                "prediction": null
+            },
+            {
+                "demand": 169,
+                "month": "2023-08",
+                "prediction": null
+            },
+            {
+                "demand": 169,
+                "month": "2023-09",
+                "prediction": null
+            },
+            {
+                "demand": 162,
+                "month": "2023-10",
+                "prediction": null
+            },
+            {
+                "demand": 225,
+                "month": "2023-11",
+                "prediction": null
+            },
+            {
+                "demand": 115,
+                "month": "2023-12",
+                "prediction": null
+            }
+        ],
+        "partNumber": "PART-010",
+        "predictions": [
+            {
+                "month": "2024-01",
+                "demand": null,
+                "prediction": 133.62
+            },
+            {
+                "month": "2024-02",
+                "demand": null,
+                "prediction": 117.43
+            },
+            {
+                "month": "2024-03",
+                "demand": null,
+                "prediction": 100.68
+            }
+        ]
+    }
+}

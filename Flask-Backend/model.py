@@ -1,4 +1,3 @@
-# backend/model.py
 import numpy as np
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import PolynomialFeatures

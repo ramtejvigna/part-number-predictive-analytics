@@ -7,7 +7,7 @@ import json
 import os
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}})
 
 models = {}
 DATASETS_DIR = 'datasets'

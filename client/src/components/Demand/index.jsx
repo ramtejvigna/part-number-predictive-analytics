@@ -38,7 +38,7 @@ const DemandForecastDashboard = () => {
             try {
                 // In a real application, this would be an API call
                 // For now, we'll simulate loading the data
-                const response = await fetch('https://predict-demand.netlify.app/api/datasets');
+                const response = await fetch('http://localhost:5000/api/datasets');
                 if (!response.ok) {
                     throw new Error('Failed to load datasets');
                 }
@@ -77,7 +77,7 @@ const DemandForecastDashboard = () => {
             setError(null);
 
             try {
-                const response = await fetch('https://predict-demand.netlify.app/api/train', {
+                const response = await fetch('http://localhost:5000/api/train', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -139,7 +139,7 @@ const DemandForecastDashboard = () => {
 
             setHistoricalData(newHistoricalData);
 
-            const response = await fetch(`https://predict-demand.netlify.app/api/predict/${selectedPartNumber}?lastDate=${nextMonth}`);
+            const response = await fetch(`http://localhost:5000/api/predict/${selectedPartNumber}?lastDate=${nextMonth}`);
             if (!response.ok) {
                 throw new Error('Failed to get predictions');
             }
@@ -161,7 +161,7 @@ const DemandForecastDashboard = () => {
             setAllData(updatedData);
 
             // Save to backend
-            await fetch('https://predict-demand.netlify.app/api/datasets', {
+            await fetch('http://localhost:5000/api/datasets', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

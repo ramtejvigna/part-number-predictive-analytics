@@ -53,7 +53,7 @@ pip install flask flask-cors scikit-learn numpy python-dateutil joblib
 python app.py
 ```
 
-The backend server will run on `https://predict-demand.netlify.app`.
+The backend server will run on `http://localhost:5000`.
 
 ### Frontend Setup
 

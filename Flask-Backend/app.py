@@ -136,6 +136,10 @@ def predict(part_number):
         'predictions': prediction_data,
         'confidence': round(float(confidence), 2)
     })
+    
+@app.route('/', methods=['GET'])
+def start():
+    return 'Demand Forecast API'
 
 if __name__ == '__main__':
     app.run(debug=True)
